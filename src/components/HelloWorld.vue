@@ -91,4 +91,13 @@ body {
 .error {
   color: #b91c1c;
 }
+
+/* Warna teks daftar pengguna */
+h1,
+h2,
+h3,
+p,
+.user-card {
+  color: #000000;
+}
 </style>
